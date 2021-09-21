@@ -118,7 +118,7 @@ body {
 #car_1{
     top: -100px;
     left: 60%;
-    background-color: #26c5ff;
+    background-color: #26ffdb;
 }
 #car_2{
     top: -200px;
@@ -128,7 +128,7 @@ body {
 #car_3{
     top: -350px;
     left: 50%;
-    background-color: #26c5ff;
+    background-color: #26afff;
 }
 #restart_div {
     position: absolute;
